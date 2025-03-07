@@ -1,0 +1,198 @@
+.bg-white {
+    background-color: white;
+}
+
+.bg-whitesmoke {
+    background-color: whitesmoke;
+}
+
+.bg-nav-btn {
+    background-color: #e9f0fa;
+}
+
+.nav-btn {
+    background-color: #2e68c3;
+}
+
+.nav {
+    color: #2e68c3;
+}
+
+.white {
+    color: white;
+}
+
+.gray {
+    color: gray;
+}
+
+.gold {
+    color: gold;
+}
+
+.red {
+    color: red;
+}
+
+.darkred {
+    color: darkred;
+}
+
+.darkorange {
+    color: darkorange;
+}
+
+.w-66 {
+    width: 65%;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.w-252 {
+    width: 252px;
+}
+
+.w-292 {
+    width: 292px;
+}
+
+.h-220 {
+    height: 220px;
+}
+
+.sans-serif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.f-14 {
+    font-size: 14px;
+}
+
+.f-sm {
+    font-size: smaller;
+}
+
+.f-lg {
+    font-size: larger;
+}
+
+.f-40 {
+    font-size: 40px;
+}
+.lh-25 {
+    line-height: 25px;
+}
+
+.lh-22 {
+    line-height: 22px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.f-col {
+    flex-direction: column;
+}
+
+.f-row {
+    flex-direction: row;
+}
+
+.j-content-s-btw {
+    justify-content: space-between;
+}
+
+.j-content-center {
+    justify-content: center;
+}
+
+.a-item-center {
+    align-items: center;
+}
+
+.o-fit {
+    object-fit: contain;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.m-0 {
+    margin: 0;
+}
+
+.m-top {
+    margin-top: 25px;
+}
+
+.p-18 {
+    padding: 18px;
+}
+
+.p-8-8 {
+    padding: 11px 15px;
+}
+
+.p-0-10 {
+    padding: 0px 10px;
+}
+
+.p-0-18 {
+    padding: 0px 18px;
+}
+
+.g-95 {
+    gap: 95px;
+}
+
+.g-10 {
+    gap: 10px;
+}
+
+.b-radius-8 {
+    border-radius: 8px;
+}
+
+.b-radius-5 {
+    border-radius: 5px;
+}
+
+.b-tLeft-radius-8 {
+    border-top-left-radius: 8px;
+}
+
+.b-tRight-radius-8 {
+    border-top-right-radius: 8px;
+}
+
+.b-shadow {
+    box-shadow: 1px 1px 1px gainsboro;
+}
+
+.l1-color {
+    color: #8671bb;
+}
+
+.l1-bg {
+    background-color: #efecf7;
+}
+
+.l1-padding {
+    padding: 3px 7px;
+}
+
+.l-color {
+    color: #8bd3b2;
+}
+
+.l-bg {
+    background-color: #eaf8ef;
+}
+
+.b-whitesmoke {
+    border: 1px solid whitesmoke;
+}
