@@ -7,7 +7,7 @@
 }
 
 .bg-nav-btn {
-    background-color: #e9f0fa;
+    background-color: #e6effc;
 }
 
 .nav-btn {
@@ -34,10 +34,6 @@
     color: red;
 }
 
-.darkred {
-    color: darkred;
-}
-
 .darkorange {
     color: darkorange;
 }
@@ -62,7 +58,7 @@
     height: 220px;
 }
 
-.sans-serif {
+.Arial {
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -126,6 +122,10 @@
     margin: 0;
 }
 
+.m-8 {
+    margin: 8px 0px;
+}
+
 .m-top {
     margin-top: 25px;
 }
@@ -134,7 +134,7 @@
     padding: 18px;
 }
 
-.p-8-8 {
+.p-11-15 {
     padding: 11px 15px;
 }
 
